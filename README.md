@@ -21,13 +21,13 @@ Pastikan software berikut sudah terinstall di komputer Anda:
 ## Setup Database
 
 1.  Pastikan layanan MySQL berjalan.
-2.  Buat database baru dengan nama `dev_test114`.
-3.  Import file `dev_test114.sql` (disertakan dalam paket soal) ke dalam database tersebut.
+2.  Buat database baru dengan nama `dev_test`.
+3.  Import file `dev_test.sql` (disertakan dalam paket soal) ke dalam database tersebut.
 4.  Konfigurasi kredensial database ada di file `backend/config/db.js`. Default setting:
     * **Host:** localhost
     * **User:** root
     * **Password:** (kosong)
-    * **DB Name:** dev_test114
+    * **DB Name:** dev_test
 
 ## Cara Menjalankan Aplikasi
 
